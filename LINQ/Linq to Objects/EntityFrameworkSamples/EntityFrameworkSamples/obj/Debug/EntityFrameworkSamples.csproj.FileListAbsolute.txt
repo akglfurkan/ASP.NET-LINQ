@@ -1,0 +1,10 @@
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.exe.config
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.exe
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.pdb
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFramework.dll
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFramework.xml
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.exe
+C:\Users\sadikturan\Desktop\Web Developer\2-Back-End\6-Entity Framework\0-Files\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.pdb
